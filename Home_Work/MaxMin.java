@@ -7,7 +7,7 @@ public class MaxMin{
    public static void main(String[] args) throws FileNotFoundException{
       //This line allows reading a file called input.txt
       //Make sure you have input.txt in the same directory as the .java file
-      Scanner fileIn = new Scanner(new File("MaxMin.txt"));
+      Scanner fileIn = new Scanner(new File("C:\\Users\\Emman\\IdeaProjects\\CSCI_1320\\Home_Work\\MaxMin.txt"));
       
       int x = fileIn.nextInt();
       int y = fileIn.nextInt();

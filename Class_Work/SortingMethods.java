@@ -3,7 +3,7 @@ import java.io.*;
 
 public class SortingMethods{
     public static void main(String[] args) throws FileNotFoundException{
-        Scanner file = new Scanner(new File("C:\\Users\\Emman\\IdeaProjects\\CSCI_1320\\Home Work\\array.txt"));
+        Scanner file = new Scanner(new File("input.txt"));
         double[] lines = new double[1000];
         int cnt = 0;
 

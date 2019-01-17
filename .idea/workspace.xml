@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e63ccfb-1d94-4642-8305-881071e51873" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Class_Work/Arrays2DIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Work/FracCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work/SortNumWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work/numWords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/CharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/HelloUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/ProvideMultiplesList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/TestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/TranslatedCodeMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSCI_1320.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSCI_1320.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Work/SortingMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Work/SortingMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Work/StringIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Work/StringIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/MaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Strings" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/Strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/UpperCaseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/UpperCaseWords.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CSCI_1320$ArrayStatsAdvanced.ic" NAME="ArrayStatsAdvanced Coverage Results" MODIFIED="1541477547427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CSCI_1320$TicTacToe.ic" NAME="TicTacToe Coverage Results" MODIFIED="1544260625962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="178" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="717575250">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PalStrings" value="1" />
+          <entry key="Strings" value="3" />
+          <entry key="array" value="1" />
+          <entry key="java" value="40" />
+          <entry key="numWords" value="2" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="69" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="PalStrings" value="97" />
+          <entry key="Strings" value="265" />
+          <entry key="java" value="10184" />
+          <entry key="numWords" value="19" />
+          <entry key="txt" value="424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="15956" />
+          <entry key="PLAIN_TEXT" value="852" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CSCI_1320" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class_Work/FracCalc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-33">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Home_Work/TicTacToe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-798">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>curre</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Compression.java" />
+        <option value="$PROJECT_DIR$/src/MaxMin.java" />
+        <option value="$PROJECT_DIR$/src/MinMaxMethods.java" />
+        <option value="$PROJECT_DIR$/src/UnknownFileInputLength.java" />
+        <option value="$PROJECT_DIR$/Class Work/ArrayIntro.java" />
+        <option value="$PROJECT_DIR$/Class Work/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/Class Work/SortingMethods.java" />
+        <option value="$PROJECT_DIR$/Home Work/ArrayStatsBasic.java" />
+        <option value="$PROJECT_DIR$/Home Work/array.txt" />
+        <option value="$PROJECT_DIR$/Home Work/ArrayStatsAdvanced.java" />
+        <option value="$PROJECT_DIR$/Class Work/StringIntro.java" />
+        <option value="$PROJECT_DIR$/Home Work/UpperCaseWords.java" />
+        <option value="$PROJECT_DIR$/Home Work/Strings" />
+        <option value="$PROJECT_DIR$/Home Work/PalStrings" />
+        <option value="$PROJECT_DIR$/Home Work/Palindrome.java" />
+        <option value="$PROJECT_DIR$/Home_Work/Palindrome.java" />
+        <option value="$PROJECT_DIR$/Home_Work/numWords" />
+        <option value="$PROJECT_DIR$/Class_Work/StringIntro.java" />
+        <option value="$PROJECT_DIR$/Home_Work/SortNum.java" />
+        <option value="$PROJECT_DIR$/Home_Work/Strings" />
+        <option value="$PROJECT_DIR$/Class_Work/SortingMethods.java" />
+        <option value="$PROJECT_DIR$/Home_Work/SortNumWords.java" />
+        <option value="$PROJECT_DIR$/Class_Work/Arrays2DIntro.java" />
+        <option value="$PROJECT_DIR$/Class_Work/FracCalc.java" />
+        <option value="$PROJECT_DIR$/Home_Work/TicTacToe.java" />
+        <option value="$PROJECT_DIR$/Tests/HelloUser.java" />
+        <option value="$PROJECT_DIR$/Tests/Palindrome.java" />
+        <option value="$PROJECT_DIR$/Tests/TestPalindrome.java" />
+        <option value="$PROJECT_DIR$/Tests/ProvideMultiplesList.java" />
+        <option value="$PROJECT_DIR$/Tests/input" />
+        <option value="$PROJECT_DIR$/Tests/CharCount.java" />
+        <option value="$PROJECT_DIR$/Tests/TranslatedCodeMessage.java" />
+        <option value="$PROJECT_DIR$/Home_Work/UpperCaseWords.java" />
+        <option value="$PROJECT_DIR$/Home_Work/MaxMin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CSCI_1320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSCI_1320" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSCI_1320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSCI_1320" type="462c0819:PsiDirectoryNode" />
+              <item name="Class_Work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSCI_1320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSCI_1320" type="462c0819:PsiDirectoryNode" />
+              <item name="Class_Work" type="462c0819:PsiDirectoryNode" />
+              <item name="FracCalc.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="CSCI_1320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSCI_1320" type="462c0819:PsiDirectoryNode" />
+              <item name="Home_Work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSCI_1320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSCI_1320" type="462c0819:PsiDirectoryNode" />
+              <item name="Home_Work" type="462c0819:PsiDirectoryNode" />
+              <item name="TicTacToe.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547222139298" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Challenges" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emman\IdeaProjects\CSCI_1320\Home Work" />
+      <recent name="C:\Users\Emman\IdeaProjects\CSCI_1320\Class Work" />
+      <recent name="C:\Users\Emman\IdeaProjects\CSCI_1320\trueSrc" />
+      <recent name="C:\Users\Emman\IdeaProjects\CSCI_1320\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UpperCaseWords">
+    <configuration name="HelloUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloUser" />
+      <module name="CSCI_1320" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvideMultiplesList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProvideMultiplesList" />
+      <module name="CSCI_1320" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <module name="CSCI_1320" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TranslatedCodeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TranslatedCodeMessage" />
+      <module name="CSCI_1320" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperCaseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpperCaseWords" />
+      <module name="CSCI_1320" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloUser" />
+      <item itemvalue="Application.TestPalindrome" />
+      <item itemvalue="Application.ProvideMultiplesList" />
+      <item itemvalue="Application.TranslatedCodeMessage" />
+      <item itemvalue="Application.UpperCaseWords" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UpperCaseWords" />
+        <item itemvalue="Application.ProvideMultiplesList" />
+        <item itemvalue="Application.TranslatedCodeMessage" />
+        <item itemvalue="Application.TestPalindrome" />
+        <item itemvalue="Application.HelloUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e63ccfb-1d94-4642-8305-881071e51873" name="Default Changelist" comment="" />
+      <created>1541083877435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541083877435</updated>
+      <workItem from="1541083881485" duration="860000" />
+      <workItem from="1541171439018" duration="1368000" />
+      <workItem from="1541430687216" duration="5366000" />
+      <workItem from="1541457790214" duration="9999000" />
+      <workItem from="1541527244068" duration="2154000" />
+      <workItem from="1541600901883" duration="2913000" />
+      <workItem from="1541685599818" duration="1565000" />
+      <workItem from="1541775373545" duration="2141000" />
+      <workItem from="1541906292492" duration="761000" />
+      <workItem from="1541987798718" duration="5420000" />
+      <workItem from="1542033885055" duration="5359000" />
+      <workItem from="1542133301566" duration="1695000" />
+      <workItem from="1542178360975" duration="1343000" />
+      <workItem from="1542208433133" duration="3713000" />
+      <workItem from="1542292388323" duration="15000" />
+      <workItem from="1542292544105" duration="2318000" />
+      <workItem from="1542681439546" duration="2631000" />
+      <workItem from="1542741007887" duration="1673000" />
+      <workItem from="1542843173568" duration="674000" />
+      <workItem from="1542999089046" duration="2515000" />
+      <workItem from="1543021224093" duration="1596000" />
+      <workItem from="1543089475925" duration="2140000" />
+      <workItem from="1543244365296" duration="6372000" />
+      <workItem from="1543336819673" duration="5331000" />
+      <workItem from="1543419851946" duration="2682000" />
+      <workItem from="1543610317497" duration="331000" />
+      <workItem from="1543848255748" duration="4108000" />
+      <workItem from="1544025220131" duration="5364000" />
+      <workItem from="1544145930417" duration="6333000" />
+      <workItem from="1544196384225" duration="1585000" />
+      <workItem from="1544458674770" duration="5240000" />
+      <workItem from="1545160213570" duration="2992000" />
+      <workItem from="1546121818133" duration="745000" />
+      <workItem from="1546373213439" duration="2409000" />
+      <workItem from="1546458597278" duration="841000" />
+      <workItem from="1546535642755" duration="1233000" />
+      <workItem from="1546718420708" duration="2001000" />
+      <workItem from="1546961439982" duration="1258000" />
+      <workItem from="1547222035619" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107137000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.25642964" />
+      <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.3214826" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50163937" side_tool="true" weight="0.3214826" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22131148" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5163934" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="12" visible="true" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Home_Work/UnknownFileInputLength.java" />
+    <entry file="file://$PROJECT_DIR$/Class_Work/doWhile.java" />
+    <entry file="file://$PROJECT_DIR$/Home_Work/Compression.txt" />
+    <entry file="file://$PROJECT_DIR$/Home Work/array" />
+    <entry file="file://$PROJECT_DIR$/Class_Work/ArrayIntro.java" />
+    <entry file="file://$PROJECT_DIR$/Home_Work/ArrayStatsBasic.java" />
+    <entry file="file://$PROJECT_DIR$/Home_Work/MinMaxMethods.java" />
+    <entry file="file://$PROJECT_DIR$/Home_Work/array.txt" />
+    <entry file="file://$PROJECT_DIR$/Class_Work/MinCoins.java" />
+    <entry file="file://$PROJECT_DIR$/Home_Work/ArrayStatsAdvanced.java" />
+    <entry file="file://$PROJECT_DIR$/Class_Work/ReverseArray.java" />
+    <entry file="file://$PROJECT_DIR$/Home_Work/ArithmeticMethods.java" />
+    <entry file="file://$PROJECT_DIR$/Home_Work/Input.java" />
+    <entry file="file://$PROJECT_DIR$/Home_Work/QuadFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/PalStrings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class_Work/StringIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class_Work/SortingMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/numWords">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/NumbersAndFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class_Work/Arrays2DIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class_Work/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class_Work/GoldenRatio.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/TestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class_Work/MethodIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class_Work/MinCoin_Ashby.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ProvideMultiplesList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/CharCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/TranslatedCodeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/Unkown.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/Strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/Compression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/UpperCaseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/MaxMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="109" selection-start-line="9" selection-start-column="109" selection-end-line="9" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/SortNumWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/HelloUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class_Work/FracCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Work/TicTacToe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

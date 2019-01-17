@@ -1,9 +1,9 @@
 import java.util.*;
 import java.io.*;
 
-public class Palindrome {
+public class TestPalindrome {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner fin = new Scanner(new File("C:\\Users\\Emman\\IdeaProjects\\CSCI_1320\\Home_Work\\PalStrings"));
+        Scanner fin = new Scanner(new File("input.txt"));
 
         while(fin.hasNextLine()) {
             if(isPalindrome(fin.nextLine())) {
@@ -32,7 +32,7 @@ public class Palindrome {
     public static String oneLine(String phrase){
         phrase = phrase.toLowerCase();
         char[] letters = {'e', 'a', 'r', 'i', 'o', 't', 'n', 's', 'l', 'c', 'u', 'd', 'p', 'm', 'h', 'g', 'b', 'f', 'y', 'w', 'k', 'v',
-                'x', 'z', 'j', 'q', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
+                'x', 'z', 'j', 'q'};
         String phrase2 = "";
         int cnt = 0;
         while(cnt < phrase.length()) {
